@@ -1,3 +1,3 @@
 # individual
-personal code
-Just my collections.
+Personal code.
+Just collections.
